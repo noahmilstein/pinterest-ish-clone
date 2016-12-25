@@ -9,6 +9,7 @@ gem 'listen'
 gem 'haml'
 gem 'bootstrap-sass', '~> 3.3.6'
 gem 'simple_form'
+gem 'devise'
 group :development, :test do
   gem 'rb-readline'
   gem 'capybara'
