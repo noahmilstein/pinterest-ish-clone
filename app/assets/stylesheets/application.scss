@@ -1,7 +1,9 @@
 // @import "*";
-@import 'masonry/transitions';
 @import "bootstrap-sprockets";
 @import "bootstrap";
+@import 'masonry/transitions';
+@import "font-awesome-sprockets";
+@import "font-awesome";
 
 body {
 	background: #E9E9E9;

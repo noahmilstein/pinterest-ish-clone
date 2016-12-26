@@ -12,6 +12,9 @@ gem 'simple_form'
 gem 'devise'
 gem "paperclip", "~> 5.0.0"
 gem 'masonry-rails'
+gem 'acts_as_votable', '~> 0.10.0'
+gem 'font-awesome-sass', '~> 4.7.0'
+# gem "font-awesome-rails"
 group :development, :test do
   gem 'rb-readline'
   gem 'capybara'
